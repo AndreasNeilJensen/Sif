@@ -1,0 +1,6 @@
+C:\Users\Andreas\Documents\Sif\bin\x64\Release\FullyFreeEncryption.exe.config
+C:\Users\Andreas\Documents\Sif\bin\x64\Release\FullyFreeEncryption.exe
+C:\Users\Andreas\Documents\Sif\bin\x64\Release\FullyFreeEncryption.pdb
+C:\Users\Andreas\Documents\Sif\obj\x64\Release\FullyFreeEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Documents\Sif\obj\x64\Release\FullyFreeEncryption.exe
+C:\Users\Andreas\Documents\Sif\obj\x64\Release\FullyFreeEncryption.pdb
